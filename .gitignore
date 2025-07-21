@@ -3,6 +3,7 @@ dist/
 dist-newstyle/
 *.hi
 *.o
+*.exe
 
 # Haskell Tool Stack-related
 .stack-work/
